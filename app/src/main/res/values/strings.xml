@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Seattle Explorer</string>
+    <string name="app_name_cap">SEATTLE EXPLORER</string>
+
+
+
+    <string name="google_maps_api_key">AIzaSyA4jGXvTbe6V00pmFYqkd4iN4qMqxDUZiU</string>
+
+
+</resources>
